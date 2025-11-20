@@ -5,7 +5,7 @@ title: "About Me"
 
 # **About Me**
 
-I am **Dr. Sailesh K S**, Assistant Professor (Senior Grade) in the **Department of Mechanical Engineering**, Saintgits College of Engineering.  
+I am **Sailesh K S**, Assistant Professor (Senior Grade) in the **Department of Mechanical Engineering**, Saintgits College of Engineering.  
 My teaching and research experience spans across **Nanofuels, Biofuels, Composite Materials, Structural Mechanics, and Mechanical Design**.
 
 ---
