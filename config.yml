@@ -1,13 +1,9 @@
-title: "Sailesh K S"
+title: "Dr. Sailesh K S"
 description: "Assistant Professor (Sr.) | Mechanical Engineering | Nanofuels | Biofuels | Structural Mechanics"
 author: "Sailesh K S"
 
 theme: minima
 
-markdown: kramdown
-highlighter: rouge
-
-# Navigation Menu
 header_pages:
   - index.md
   - about.md
@@ -15,15 +11,12 @@ header_pages:
   - projects.md
   - contact.md
 
-# Social Links (optional)
-github_username: sailesh-ks
-linkedin_username: sailesh-ks
+markdown: kramdown
 
-# Build Settings
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-# Optional: Set the base URL if site is in a subfolder
+# Optional (edit if needed)
 # baseurl: "/your-repo-name"
 # url: "https://your-username.github.io"
