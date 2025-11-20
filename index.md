@@ -1,35 +1,29 @@
 ---
-title: "Sailesh K S"
+layout: home
+title: "Home"
 ---
 
-# **Sailesh K S**
-### Assistant Professor (Sr.)  
-Department of Mechanical Engineering  
+# **Dr. Sailesh K S**
+### Assistant Professor (Sr.), Department of Mechanical Engineering  
 Saintgits College of Engineering, Kottayam, Kerala
 
----
-
-## 👋 Welcome
-
-I am an Assistant Professor (Senior Grade) specializing in **Nanofuels, Biofuels, Structural Mechanics, Finite Element Analysis, and Material Science**.  
-With over **14 years** of academic experience, my work focuses on **energy research, sustainable fuels, composite materials, and mechanical design**.
+Welcome to my professional website. I specialize in **Nanofuels, Biofuels, Structural Mechanics, Material Science**, and **Finite Element Analysis**.  
+My academic journey spans more than a decade, focusing on research, teaching, and mechanical engineering innovation.
 
 ---
 
-## 🔍 Areas of Expertise
+## 🔍 **Core Areas of Expertise**
 - Nanofuels & Biofuels  
 - Structural Mechanics  
 - Material Science  
 - Finite Element Analysis  
-- CAD: AutoCAD, SOLIDWORKS  
-- CAE: ANSYS Workbench (Structural)
+- AutoCAD & SOLIDWORKS  
+- ANSYS Workbench (Structural)
 
 ---
 
-## 📄 Quick Links
+## 📄 **Explore More**
 - 👉 [About Me](about.md)  
 - 👉 [Publications](publications.md)  
-- 👉 [Funded Projects](projects.md)  
+- 👉 [Funded & Student Projects](projects.md)  
 - 👉 [Contact](contact.md)
-
----
