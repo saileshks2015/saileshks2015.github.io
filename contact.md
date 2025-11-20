@@ -1,8 +1,9 @@
 ---
+layout: page
 title: "Contact"
 ---
 
-# **Contact Me**
+# **Contact**
 
 **Dr. Sailesh K S**  
 Assistant Professor (Sr.)  
@@ -15,3 +16,4 @@ Kottayam, Kerala – 686532
 ✉️ **Email:** sailesh.ks@saintgits.org
 
 ---
+
