@@ -5,7 +5,7 @@ title: "Contact"
 
 # **Contact**
 
-**Dr. Sailesh K S**  
+**Sailesh K S**  
 Assistant Professor (Sr.)  
 Department of Mechanical Engineering  
 Saintgits College of Engineering  
