@@ -3,7 +3,7 @@ layout: home
 title: "Home"
 ---
 
-# **Dr. Sailesh K S**
+# **Sailesh K S**
 ### Assistant Professor (Sr.), Department of Mechanical Engineering  
 Saintgits College of Engineering, Kottayam, Kerala
 
